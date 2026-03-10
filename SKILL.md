@@ -1,9 +1,9 @@
 ---
 name: ima-knowledge-ai
-version: 1.0.3
+version: 1.0.4
 category: knowledge
 author: IMA Studio (imastudio.com)
-keywords: imastudio, knowledge, workflow, model selection, visual consistency, video modes, parameter guide
+keywords: imastudio, knowledge, workflow, model selection, visual consistency, video modes, parameter guide, 知识库, 工作流, 模型选择, IMA, 图像视频音乐, SeeDream, Midjourney, Suno, Kling, Veo, Sora
 description: >
   Critical knowledge base for AI content creation — READ THIS FIRST before any image/video/music 
   generation task. Provides expert guidance on workflow design, model selection, parameter optimization, 
